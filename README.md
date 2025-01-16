@@ -8,3 +8,5 @@ Web Technologies that I will be learning are:
 3. JavaScript
    
 everything in detail.
+
+For correct outputs, download the whole repository and then run the required files.
